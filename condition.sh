@@ -2,10 +2,10 @@
 
 NUMBER=$1  
 
--gt = greater then
--lt = less then
--eq = equal 
--ne = not equal
+#-gt = greater then
+#-lt = less then
+#-eq = equal 
+#-ne = not equal
 
 if [ $NUMBER -lt 10 ]
 then
